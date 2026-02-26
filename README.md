@@ -1,2 +1,2 @@
 # WebScrapping_on_AmbitionBox
-Go through the ppt file to understand the project
+Please refer to the attached PPT file for a detailed explanation of the project workflow, methodology, and results.
